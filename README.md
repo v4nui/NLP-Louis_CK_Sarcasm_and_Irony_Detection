@@ -131,7 +131,14 @@ python scripts/train_model.py
 SVM_base_hyper.ipynb
 ```
 
-### 8. Compare results of SVM vs Roberta and visualize results
+### 8. Compare classification results and visualizations of SVM vs Roberta
+
+```bash
+SVM_base_hyper.ipynb
+RoBERTa_vis.ipynb
+```
+
+\*\*P.S. visualizations were stylized to match the presentation theme, please adjust if needed
 
 ---
 
