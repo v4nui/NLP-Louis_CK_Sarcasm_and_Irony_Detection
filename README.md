@@ -125,11 +125,13 @@ python scripts/label_with_transformers.py
 python scripts/train_model.py
 ```
 
-### 7. Evaluate Model (optional)
+### 7. Create SVM classifier baseline and tuned versions
 
 ```bash
-python scripts/evaluate_model.py
+SVM_base_hyper.ipynb
 ```
+
+### 8. Compare results of SVM vs Roberta and visualize results
 
 ---
 
