@@ -6,6 +6,8 @@ __pycache__/
 # C extensions
 *.so
 
+
+
 # Distribution / packaging
 .Python
 build/
@@ -172,3 +174,10 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+
+# ignore folders
+nlpenv/*
+models/*
+data/*
+plots/*
